@@ -1,2 +1,4 @@
 camelot-py[cv]
+numpy
+pandas
 tabula-py

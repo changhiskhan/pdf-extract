@@ -5,7 +5,7 @@
 
 def download_pdf(dest):
     url = "https://www.hcd.ca.gov/housing-elements/docs/torrance-6th-adopted081522.pdf"
-    
+
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
